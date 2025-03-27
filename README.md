@@ -1,7 +1,3 @@
-Below is a sample `README.md` that explains the entire project and how to use the five files:
-
----
-
 # BBC Articles Scraping and Image Processing Project
 
 This project demonstrates how to scrape articles from BBC, download related images, update datasets with image locations, and preprocess those images for model training. It consists of several scripts that work in sequence to generate and update datasets and image files.
@@ -105,7 +101,3 @@ Contributions to improve the scripts or add additional functionality are welcome
 ## License
 
 This project is provided for educational purposes. Please review the license file for more details.
-
----
-
-This `README.md` provides a comprehensive overview of the project, detailed descriptions of each script and file, and step-by-step instructions on how to run the project. Adjust as necessary to fit any additional specifics of your implementation.
